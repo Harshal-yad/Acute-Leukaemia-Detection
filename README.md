@@ -168,5 +168,3 @@ This repository does not currently specify a license file. Please check with the
 This project builds on standard PyTorch computer vision workflows and publicly available leukemia image datasets. It is designed for academic experimentation and practical model development.
 
 ---
-
-If you'd like, I can also tailor the README to a more academic style, a polished GitHub-project style, or a research-poster style version.
